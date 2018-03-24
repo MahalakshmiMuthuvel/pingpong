@@ -35,7 +35,7 @@ int main()
 	scanf("%d",&y1);
 	printf("Enter The X Coordinate Of The Ending Point : ");
 	scanf("%d",&x2);
-	printf("Enter The Y Coordinate Of The Ending Point : ");
+	printf("Enter The Y Coordinate Of The Ending Point In The Map: ");
 	scanf("%d",&y2);
 	printf("KEY\n");
 	printf("Enter u for moving one step up\n");
